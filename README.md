@@ -1,4 +1,4 @@
-# Framework-Lena
+# Readme
 
 Class .col-i
 Sert à déterminer le nombre de commandes que prend l'élément
